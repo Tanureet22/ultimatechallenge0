@@ -1,4 +1,3 @@
-# Name: BLACKBOXAI
 
 # Constants for tax rates
 GST_RATE = 0.05

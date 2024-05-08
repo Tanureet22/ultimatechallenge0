@@ -19,16 +19,3 @@ puts "Subtotal: $#{sub_total}"
 puts "PST: $#{pst_amount} - 7%"
 puts "GST: $#{gst_amount} - 5%"
 puts "Grand Total: $#{grand_total}"
-
-
-# Print the message based on grand total
-
-if grand_total <= 5.00
-  puts "Pocket Change"
-elsif grand_total > 5.00 && grand_total < 20.00
-  puts "Wallet Time"
-else
-  puts "Charge It!"
-end
-
-
