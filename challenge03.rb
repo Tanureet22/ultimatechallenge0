@@ -1,4 +1,6 @@
 
+
+
 # Constants for tax rates
 GST_RATE = 0.05
 PST_RATE = 0.07

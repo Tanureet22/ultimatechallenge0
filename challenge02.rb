@@ -1,4 +1,5 @@
 
+
 # Define constants for GST and PST rates
 GST_RATE = 0.05
 PST_RATE = 0.07

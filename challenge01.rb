@@ -6,7 +6,6 @@ PST_RATE = 0.07
 # Store the dollar amount in a variable
 sub_total = 5.00
 
-
 # Calculate GST and PST amounts
 gst_amount = sub_total * GST_RATE
 pst_amount = sub_total * PST_RATE
